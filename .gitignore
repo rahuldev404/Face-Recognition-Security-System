@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+
+# Environment
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Generated data
+Intruders/*
+!Intruders/.gitkeep
+
+Uploaded_Images_In_JPG/*
+!Uploaded_Images_In_JPG/.gitkeep
