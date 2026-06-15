@@ -1,0 +1,7 @@
+deepface
+opencv-python
+numpy
+requests
+tensorflow
+tf-keras
+pillow
