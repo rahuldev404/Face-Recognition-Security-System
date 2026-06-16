@@ -29,9 +29,9 @@ MAX_PASSWORD_TRIES = 3
 MAX_OTP_TRIES = 3
 OTP_EXPIRE_SECONDS = 120
 
-SENDER_EMAIL = "xxxxxxxxxxx@gamil.com"# your Sender email address
+SENDER_EMAIL = "xxxxxxxxxxx@gmail.com"# your Sender email address
 RECEIVER_EMAIL = "xxxxxxxxxxxx@gmail.com"#uour receiver emial address
-EMAIL_PASSWORD = "xxxxxxxxxxxxxx" # use app password for gamil
+EMAIL_PASSWORD = "xxxxxxxxxxxxxx" # use app password for gamil #Note aap pahle 2verification on karna hoga 
 SEND_USER_GMAIL_OTP = "xxxxxxxxxxxxx@gmail.com"#jis par aap otp bhejna chate hai 
 
 def send_otp_to_user_gmail(otp_code):
