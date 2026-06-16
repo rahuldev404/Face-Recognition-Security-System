@@ -96,7 +96,8 @@ python face.py
 
 ## 📸 Screenshots
 
-Project screenshots will be added soon.
+<img width="1710" height="1112" alt="Screenshot 2026-06-16 at 2 58 07 PM" src="https://github.com/user-attachments/assets/7a8345fc-2411-46ea-8032-73b60dc8a077" />
+
 
 ---
 
