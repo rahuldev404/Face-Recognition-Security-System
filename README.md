@@ -106,10 +106,8 @@ A complete demonstration video will be uploaded soon.
 
 ---
 
-## 🚧 Future Improvements
+## 🚧 Future Improvements 
 
-* Live email notifications
-* Two-factor authentication (2FA)
 * Voice authentication
 * Multi-user support
 * Real-time dashboard
