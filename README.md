@@ -1,3 +1,4 @@
+
 # 🔐 Face Recognition Security System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
@@ -95,8 +96,8 @@ python face.py
 ---
 
 ## 📸 Screenshots
-
 <img width="1710" height="1112" alt="Screenshot 2026-06-16 at 2 58 07 PM" src="https://github.com/user-attachments/assets/7a8345fc-2411-46ea-8032-73b60dc8a077" />
+Loctaion of Intruder <img width="806" height="898" alt="Screenshot 2026-06-19 at 4 49 33 PM" src="https://github.com/user-attachments/assets/d2992387-04e9-4003-9f79-1f3632545f4d" />
 
 
 ---
